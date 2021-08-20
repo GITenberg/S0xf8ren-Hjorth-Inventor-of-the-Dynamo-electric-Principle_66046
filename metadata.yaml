@@ -1,16 +1,21 @@
 _repo: S0xf8ren-Hjorth-Inventor-of-the-Dynamo-electric-Principle_66046
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Sodemann, F.
     gutenberg_agent_id: '53613'
     url: http://www.gutenberg.org/2009/agents/53613
+covers:
+- cover_type: archival
+  image_path: 66046-h/images/cover.jpg
 creator:
   author:
     agent_name: Smith, Sigurd
     gutenberg_agent_id: '53612'
     url: http://www.gutenberg.org/2009/agents/53612
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66046#S0xf8ren-Hjorth-Inventor-of-the-Dynamo-electric-Principle
 gutenberg_issued: '2021-08-11'
 gutenberg_type: Text
 identifiers:
